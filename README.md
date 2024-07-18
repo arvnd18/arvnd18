@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am passionate about technologies and have an ins
 I am always excited to collaborate on interesting projects, discuss new ideas, and share insights on technology. Feel free to reach out!
 
 - **LinkedIn**: [Aravindh A](https://www.linkedin.com/in/aravindh-a-983952258/)
-- **Twitter**: [@arvnd1806](https://x.com/arvnd1806))
+- **Twitter**: [@arvnd1806](https://x.com/arvnd1806)
 - **Email**: aravindh.ag18@gmail.com
 
 Looking forward to connecting and building something amazing together!
